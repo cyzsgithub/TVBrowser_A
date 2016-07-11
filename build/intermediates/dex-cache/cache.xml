@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/work/AndroidStudioProjects/TVBrowser_A/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/work/AndroidStudioProjects/TVBrowser_A/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_58848be3cde4fcb6aac594e7910bc36cfc18e0e2.jar" />
+    </item>
+    <item
+        jar="/work/AndroidStudioProjects/TVBrowser_A/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/work/AndroidStudioProjects/TVBrowser_A/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_f7040f7bbf60bb9c5e31cf16829891acc9bfc9cf.jar" />
+    </item>
+    <item
+        jar="/work/AndroidStudioProjects/TVBrowser_A/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/work/AndroidStudioProjects/TVBrowser_A/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_b9f9be34576420d683407199cbc5e60912acbf64.jar" />
+    </item>
+    <item
+        jar="/work/AndroidStudioProjects/TVBrowser_A/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="bf8b2e21f3a030bc44b6f695c29befca069cc817">
+        <dex dex="/work/AndroidStudioProjects/TVBrowser_A/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_d94406cf591a41daa8ce01b783187ac38c3da901.jar" />
+    </item>
+    <item
+        jar="/work/AndroidStudioProjects/TVBrowser_A/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/work/AndroidStudioProjects/TVBrowser_A/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_81d00d5aed59f004ae6828e61d8137f79d056c4c.jar" />
+    </item>
+    <item
+        jar="/work/AndroidStudioProjects/TVBrowser_A/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/work/AndroidStudioProjects/TVBrowser_A/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_4de55774f227df2b125538b2b96095d45ffa1cd3.jar" />
+    </item>
+    <item
+        jar="/work/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/work/AndroidStudioProjects/TVBrowser_A/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_c9cca977659148c1fbf01fe7006c0ca1a51684ac.jar" />
+    </item>
+    <item
+        jar="/work/AndroidStudioProjects/TVBrowser_A/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="05f1c3e9f5316cf7e04ec801547bdc664e424cb8">
+        <dex dex="/work/AndroidStudioProjects/TVBrowser_A/app/build/intermediates/pre-dexed/debug/instant-run_4a7d7bdd466bc728a7d62a557156f317c4742688.jar" />
+    </item>
+
+</items>

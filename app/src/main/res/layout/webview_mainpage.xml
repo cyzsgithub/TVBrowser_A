@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:id="@+id/webview_mainpage"
+    android:background="#FF24282B">
+
+
+    <LinearLayout
+        android:id="@+id/mainpage"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FF24282B">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="30dip"
+            android:background="#FF24282B">
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginRight="370dip"
+                android:id="@+id/textfield_url"
+                android:layout_gravity="center_horizontal"
+                android:inputType="textUri"/>
+
+            <Button
+                android:layout_width="80dip"
+                android:layout_height="wrap_content"
+                android:text="@string/text_home"
+                android:id="@+id/btn_home"
+                android:background="#FFa86cc0"
+                android:layout_marginLeft="-360dip"
+                android:layout_gravity="center_vertical"/>
+            <Button
+                android:id="@+id/btn_go"
+                android:text="@string/text_go"
+                android:background="#FFa86cc0"
+                android:layout_width="80dip"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:layout_gravity="center_vertical"
+                />
+            <Button
+                android:id="@+id/btn_back"
+                android:text="@string/text_back"
+                android:background="#FFa86cc0"
+                android:layout_width="80dip"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:layout_gravity="center_vertical"
+                />
+            <Button
+                android:id="@+id/btn_fresh"
+                android:text="@string/text_fresh"
+                android:background="#FFa86cc0"
+                android:layout_width="80dip"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:layout_gravity="center_vertical"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:id="@+id/webviewctrl"
+            android:background="#FF00FF00"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="80dip"></LinearLayout>
+
+        <EditText
+            android:id="@+id/text_status"
+            android:layout_width="match_parent"
+            android:layout_height="80dip"
+            android:layout_marginTop="-80dip"
+            android:background="#FFAECC33"
+            android:singleLine="false"
+            android:scrollbars="vertical"
+            android:textSize="12px"
+            />
+
+    </LinearLayout>
+</RelativeLayout>
